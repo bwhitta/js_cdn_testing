@@ -40,6 +40,8 @@ function tick() {
   requestAnimationFrame(tick);
 }
 
+console.log("Script loaded!");
+
 const scoreValue = document.getElementById("score-value");
 let score = 0;
 
