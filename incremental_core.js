@@ -42,6 +42,8 @@ function tick() {
 
 console.log("Script loaded!");
 
+// another test!
+
 const scoreValue = document.getElementById("score-value");
 let score = 0;
 
